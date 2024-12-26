@@ -12,7 +12,8 @@ To write a python program to find the inverse of a matrix
 using np.array() store the matrix in the variable marix
 
 ### Step 3:
-Using the np.linalg.matrix_rank(), we can find the inverse of 
+ Using the np.linalg.inv() we can find the inverse of the given matrix.
+ 
 ### Step 4:
 Print the inverse of the matrix
 
